@@ -1,0 +1,4 @@
+u need to install ur own tele bot, u can ask botfather in telegram
+u need to have ur own api key
+
+just edit the variables which one u need.
