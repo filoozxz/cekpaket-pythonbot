@@ -6,8 +6,8 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 from telegram.request import HTTPXRequest
 
 # ============= CONFIG =============
-BOT_TOKEN = "7249796632:AAHov7MoOlAQHOVQ41ucAh3KCC1jXyNyOuU"
-API_KEY = "cfd41e9d-c184-426c-8b99-94eef89ab3ec"
+BOT_TOKEN = "UR_TOKEN"
+API_KEY = "UR_APIKEY"
 API_URL = f"https://golang-openapi-packagelist-xltembakservice.kmsp-store.com/v1?api_key={API_KEY}"
 ITEMS_PER_PAGE = 10  # banyak data per halaman
 
@@ -163,3 +163,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
